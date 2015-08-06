@@ -1,0 +1,20 @@
+{
+    "people":[
+        {
+            "name":"test1",
+            "sirname":"test2",
+            "details":{
+                "social_no":1234567,
+                "creadit_card_no":34582342309
+            }
+        },
+        {
+            "name":"test3",
+            "sirname":"test4",
+            "details":{
+                "social_no":12345679,
+                "creadit_card_no":345823423090
+            }
+        }
+    ]
+}
